@@ -1,3 +1,3 @@
 # cv
 
-Adding cla-assistant bot
+Adding cla-assistant bot version 2 
